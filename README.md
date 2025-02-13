@@ -4,10 +4,7 @@ If you need a quick clean Windows vm without the default useless application tha
 
 ## How to use
 ```
-1. WIN+R 
-   Start-Process powershell -Verb runAs
-   OR
-   Open PowerShell as admin.
+1. Open PowerShell as admin.
 2. cd c:\path\to\cleanup.ps1
 3. .\cleanup.ps1
 ```
