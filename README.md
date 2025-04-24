@@ -5,7 +5,7 @@ This is very usefull.
 
 ## How to use
 ```
-1. Open PowerShell as admin.
+1. Run PowerShell as admin.
 2. cd c:\path\to\cleanup.ps1
 3. .\cleanup.ps1
 ```
